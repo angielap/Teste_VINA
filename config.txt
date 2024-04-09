@@ -1,0 +1,11 @@
+center_x =  10.18       #X coordinate of the center
+center_y =  0.76      #Y coordinate of the center
+center_z =  58.95      #Z coordinate of the center
+size_x = 20             #size in the X dimension (Angstroms)
+size_y = 20             #size in the Y dimension (Angstroms)
+size_z = 25             #size in the Z dimension (Angstroms)
+
+exhaustiveness = 20  #exhaustiveness of the global search (roughly proportional to time): 1+
+num_modes = 10        #maximum number of binding modes to generate
+energy_range = 4      #maximum energy difference between the best binding mode and the worst one displayed (kcal/mol)
+ 
